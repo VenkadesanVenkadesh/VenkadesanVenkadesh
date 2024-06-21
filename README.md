@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenkadesanVenkadesh
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning core python in quality thought chennai 
+- 🌱 I’m finished core python in quality thought chennai 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
