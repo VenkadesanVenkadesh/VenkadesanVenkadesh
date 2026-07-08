@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Venkadesan M
-- 👀 I’m interested in Data Science and Data Handling.
-- 👀I completed B.E (Information Technology) in Annamalai University at Chidhambaram.
-- 🌱 I’m finished core python in quality thought, chennai.
-- 🌱 I’m finished Data Science with AI Course in quality thought, chennai.
-- 💞️ I’m Searching Data Science related jobs.
-- 📫 How to reach me ... contact no - 6379696076  ... gmail - mvenkadesan58@gmail.com
+# Hi, I'm Venkadesan M 👋
+👀 I’m interested in **Data Science, Data Analysis, and Data Handling**.
+🎓 I completed my **B.E. in Information Technology** from **Annamalai University, Chidambaram**.
+🌱 I completed the **Core Python** course at **Quality Thoughts, Chennai**.
+🌱 I also completed the **Data Science with AI** course at **Quality Thoughts, Chennai**.
+💼 I’m currently seeking **Data Science**, **Python Developer**, or **Data Analyst** opportunities.
+
+📫 **How to reach me:**
+* 📞 Phone: +91 6379696076
+* 📧 Email: [mvenkadesan58@gmail.com](mailto:mvenkadesan58@gmail.com)
+
 
 <!---
 VenkadesanVenkadesh/VenkadesanVenkadesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
